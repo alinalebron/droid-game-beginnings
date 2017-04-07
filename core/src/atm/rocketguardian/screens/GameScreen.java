@@ -11,7 +11,6 @@ import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
 import atm.rocketguardian.RocketGuardian;
-import atm.rocketguardian.helpers.AssetLoader;
 import atm.rocketguardian.helpers.Constants;
 import atm.rocketguardian.helpers.GameContactListener;
 import atm.rocketguardian.helpers.MapGenerator;
@@ -32,7 +31,7 @@ public class GameScreen extends BaseScreen {
 
 	public GameScreen(final RocketGuardian game) {
 		super(game);
-		AssetLoader.gameMusic.play();
+		//AssetLoader.gameMusic.play();
 		camera = new OrthographicCamera();
 		gameport = new FitViewport(Constants.GAME_WIDTH, Constants.GAME_HEIGHT, camera);
 		stage = new Stage(gameport);
@@ -107,7 +106,7 @@ public class GameScreen extends BaseScreen {
 		Runnable setGameOverScreen = new Runnable() {
 			@Override
 			public void run() {
-				AssetLoader.gameMusic.stop();
+				//AssetLoader.gameMusic.stop();
 				game.setScreen(new GameOverScreen(game));
 			}
 		};

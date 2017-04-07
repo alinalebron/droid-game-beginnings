@@ -56,10 +56,10 @@ public class AssetLoader {
 		
 		// Music
 		menuMusic = Gdx.audio.newMusic(Gdx.files.internal("music/menu_music.ogg"));
-		gameMusic = Gdx.audio.newMusic(Gdx.files.internal("music/action_music.ogg"));
+		//gameMusic = Gdx.audio.newMusic(Gdx.files.internal("music/actionmusic.ogg"));
 		
-		menuMusic.setLooping(true);
-		gameMusic.setLooping(true);
+		menuMusic.setLooping(false);
+		//gameMusic.setLooping(false);
 		
 		// SFX
 		clickSound = Gdx.audio.newSound(Gdx.files.internal("sound/clickbutton.wav"));

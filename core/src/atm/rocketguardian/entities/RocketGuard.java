@@ -47,7 +47,7 @@ public class RocketGuard extends Actor {
 		isAlive = true;
 
 		// Number of hits with humans permitted
-		lives = 5;
+		lives = 1;
 
 		// Initialize Box2D body
 		bodyDef = new BodyDef();

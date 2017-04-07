@@ -30,7 +30,7 @@ public class Hud implements Disposable {
 
 	public Hud(SpriteBatch batch) {
 		// Define variables
-		guardianLives = 5;
+		guardianLives = 1;
 		score = 0;
 		
 		// setup viewport and stage
@@ -69,8 +69,8 @@ public class Hud implements Disposable {
 		
 		table.row();
 		
-		table.add(iconsTable).expandX().align(Align.left).padLeft(15).padTop(5);
-		table.add(scoreLabel).expandX().align(Align.right).padRight(15).padTop(5);
+		table.add(iconsTable).expandX().align(Align.left).padLeft(15).padTop(0);
+		table.add(scoreLabel).expandX().align(Align.right).padRight(15).padTop(0);
 		
 		stage.addActor(table);
 		
