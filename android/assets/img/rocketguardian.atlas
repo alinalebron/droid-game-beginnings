@@ -1,0 +1,377 @@
+
+rocketguardian.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blackbaby
+  rotate: false
+  xy: 772, 168
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: 0
+blackbaby
+  rotate: false
+  xy: 772, 159
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: 1
+blackguy
+  rotate: false
+  xy: 1426, 257
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: 0
+blackguy
+  rotate: false
+  xy: 1426, 241
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: 1
+blackguy
+  rotate: false
+  xy: 1426, 225
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: 2
+blackguy
+  rotate: false
+  xy: 1426, 209
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: 3
+city
+  rotate: false
+  xy: 784, 137
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 2, 143
+  size: 640, 32
+  orig: 640, 32
+  offset: 0, 0
+  index: -1
+girl
+  rotate: false
+  xy: 1478, 433
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 0
+girl
+  rotate: false
+  xy: 2, 53
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 1
+girl
+  rotate: false
+  xy: 1426, 375
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 2
+girl
+  rotate: false
+  xy: 2, 36
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 3
+iceexplosion
+  rotate: false
+  xy: 100, 128
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 0
+iceexplosion
+  rotate: false
+  xy: 742, 162
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 1
+iceexplosion
+  rotate: false
+  xy: 1426, 407
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 2
+iceexplosion
+  rotate: false
+  xy: 1478, 450
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 3
+iceexplosion
+  rotate: false
+  xy: 1550, 484
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 4
+iceexplosion
+  rotate: false
+  xy: 2, 70
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 5
+iceexplosion
+  rotate: false
+  xy: 22, 94
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 6
+iceexplosion
+  rotate: false
+  xy: 100, 113
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 7
+iceexplosion
+  rotate: false
+  xy: 115, 128
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 8
+iceexplosion
+  rotate: false
+  xy: 742, 147
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 9
+iceexplosion
+  rotate: false
+  xy: 757, 162
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 10
+iceexplosion
+  rotate: false
+  xy: 1426, 392
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 11
+life
+  rotate: false
+  xy: 2, 85
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1426, 422
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 177
+  size: 780, 320
+  orig: 780, 320
+  offset: 0, 0
+  index: -1
+longplatform
+  rotate: false
+  xy: 1426, 465
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: 0
+longplatform
+  rotate: false
+  xy: 2, 109
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: 1
+longplatform
+  rotate: false
+  xy: 644, 143
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: 2
+minizombie
+  rotate: false
+  xy: 22, 85
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: 0
+minizombie
+  rotate: false
+  xy: 17, 76
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: 1
+moon
+  rotate: false
+  xy: 1524, 474
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+rocketguard
+  rotate: false
+  xy: 1441, 411
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: 0
+rocketguard
+  rotate: false
+  xy: 1493, 454
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: 1
+rocketguard
+  rotate: false
+  xy: 1565, 488
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: 2
+rocketguard
+  rotate: false
+  xy: 37, 98
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: 3
+rocketguard
+  rotate: false
+  xy: 130, 132
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: 4
+rocketguard
+  rotate: false
+  xy: 1441, 400
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: 5
+rocketguard
+  rotate: false
+  xy: 1459, 411
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: 6
+rocketguard
+  rotate: false
+  xy: 1583, 488
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: 7
+whitebaby
+  rotate: false
+  xy: 1524, 465
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: 0
+whitebaby
+  rotate: false
+  xy: 1550, 475
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: 1
+whiteguy
+  rotate: false
+  xy: 1426, 358
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 0
+whiteguy
+  rotate: false
+  xy: 2, 19
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 1
+whiteguy
+  rotate: false
+  xy: 1426, 341
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 2
+whiteguy
+  rotate: false
+  xy: 2, 2
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 3
+whiteguy_green
+  rotate: false
+  xy: 1426, 324
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 0
+whiteguy_green
+  rotate: false
+  xy: 1426, 307
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 1
+whiteguy_green
+  rotate: false
+  xy: 1426, 290
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 2
+whiteguy_green
+  rotate: false
+  xy: 1426, 273
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: 3
+zombieguy
+  rotate: false
+  xy: 115, 114
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: 0
+zombieguy
+  rotate: false
+  xy: 757, 148
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: 1

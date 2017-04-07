@@ -1,0 +1,41 @@
+
+skin.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_normal
+  rotate: false
+  xy: 1, 131
+  size: 229, 99
+  orig: 229, 99
+  offset: 0, 0
+  index: -1
+button_pressed
+  rotate: false
+  xy: 515, 645
+  size: 229, 99
+  orig: 229, 99
+  offset: 0, 0
+  index: -1
+Orangebuttom_0
+  rotate: false
+  xy: 1, 39
+  size: 217, 90
+  orig: 217, 90
+  offset: 0, 0
+  index: -1
+Orangebuttom_1
+  rotate: false
+  xy: 232, 140
+  size: 217, 90
+  orig: 217, 90
+  offset: 0, 0
+  index: -1
+bitpusab
+  rotate: false
+  xy: 1, 232
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

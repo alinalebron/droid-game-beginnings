@@ -1,0 +1,41 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	bitpusab: {
+		file: bitpusab.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_255_255_255_255: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: button_normal
+		down: button_pressed
+		pressedOffsetY: -5
+	}
+	donate: {
+		up: Orangebuttom_0
+		down: Orangebuttom_1
+		pressedOffsetY: -5
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: bitpusab
+		fontColor: RGBA_255_255_255_255
+	}
+	donate: {
+		font: bitpusab
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+}
